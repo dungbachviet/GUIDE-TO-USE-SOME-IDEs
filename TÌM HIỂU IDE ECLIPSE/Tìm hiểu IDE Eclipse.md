@@ -18,3 +18,21 @@
 - Lên trang chủ tải phiên bản về: http://www.eclipse.org/downloads/
 - Tiến hành cài đặt file tải về ==> Eclipse hỏi bạn muốn cài Eclipse cho Java hay PHP, hay C++,... ==> Lựa chọn ngôn ngữ mong muốn ==> Kết thúc quá trình cài đặt
 - Sau khi cài đặt xong, Eclipse hiện thông báo : Yêu cầu người dùng chỉ đường dẫn tới Work Space (Không gian làm việc - là thư mục gốc giúp ta có thể lưu các project vào trong đó) ==> Ta cần nên phải chỉ ra đường dẫn tới thư mục làm việc bởi vì nếu không chỉ ra thì Eclipse sẽ tự động chọn lựa thư mục ở trong ổ C
+
+## 3. Some shortcut of IDE Eclipse : 
+- Ctrl + Shift + O : automatically imports unrecognized classes in code (tự động import các class còn thiếu)
+
+- Ctrl + I : indent code automatically (căn dòng code một cách tự động)
+
+- Ctrl + D : delete current line
+
+- Ctrl + Space : autocomplete recommendation (hoàn thiện code, gợi ý code)
+
+- "sysout" and Ctrl + Space : System.out.println()
+
+- Ctrl + H : search entire project
+
+- Ctrl + F11 : run application
+
+- Alt + Shift + R : Rename the file
+
